@@ -1,4 +1,4 @@
-# 📅 Week 3 (Apr 15 – Apr 21, 2026)  
+# 📅 Week 3 (Mar 30 – Apr 05, 2026)  
 
 - Studied networking fundamentals, communication models, protocols, and network operations
 - Explored secure networks, attack tactics, defense concepts, and basic security hardening techniques

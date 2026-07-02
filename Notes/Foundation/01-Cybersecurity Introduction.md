@@ -5,7 +5,7 @@ Cybersecurity is the practice of protecting digital assets such as data, systems
 - Prevent unauthorized access
 - Maintain system security and reliability  
 ## CIA Triad
-- Confidentiality → restrict access to authorized users
+- Confidentiality → restrict access to unauthorized users
 - Integrity → ensure data is accurate and unchanged
 - Availability → ensure systems/data are accessible  
 ## Benefits of Cybersecurity
